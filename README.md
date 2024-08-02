@@ -1,42 +1,47 @@
-# 👋 Hello, I'm Osama Ali Ashraf
+# GitHub Profile
 
-I am currently pursuing my M.Sc. in Autonomous Systems at Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany. I have a strong foundation in robotics, machine learning, and software development, with a particular focus on human-robot interaction and computer vision. My technical skills and hands-on experience have allowed me to contribute effectively to various research and development projects.
+I am a passionate roboticist.
 
-## 🔧 Technical Skills
-- **Programming Languages**: Proficient in Python, Familiar with C/C#, Cypher, SQL
-- **Robotics**: ROS1 and ROS2 for robot development and simulation
-- **Version Control**: Git
-- **Python Libraries**: NumPy, OpenCV, Pandas, SciPy, Scikit-learn, Matplotlib, PyTest, Sphinx
-- **VR Interface**: Unity 3D
-- **Operating Systems**: Experience with Linux and bash
-- **IDEs**: VScode, Jupyterhub, PyCharm
-- **Documentation**: Skilled in creating technical documentation with Sphinx and LaTeX
-- **Other Skills**: Circuit Design & Troubleshooting, Adobe Premiere Pro, Microsoft Office Suite (Excel, Word, PowerPoint)
+Welcome to my GitHub profile! Here, you'll find a collection of my projects, ranging from robotics simulations to machine learning models and technical documentation. I am proficient in Python, ROS1 and ROS2, and I enjoy working on innovative projects that push the boundaries of technology.
 
-## 🚀 Projects & Contributions
-- **Machine Learning and Robotics**: Developed a software project related to data preprocessing, data augmentation, and training and deploying ML models in HSR Toyota robots.
-- **Human-Robot Interaction**: Successfully completed an R&D project focusing on human-robot interaction and documented scientific findings on "Robust robot navigation."
-- **Simulation and Mapping**: Implemented Turtlebot3 simulation using ROS in Gazebo, incorporating AMCL and gmapping for precise localization and mapping, using the DWA approach for obstacle avoidance.
+## Skills
 
-## 💼 Work Experience
-- **Working Student (IT Support)**, University of Bonn, Germany (May 2024 - Present)
-  - Supporting IT projects, providing technical support, and maintaining security protocols.
-- **Student Assistant (DevOps)**, German Center for Neurodegenerative Diseases (DZNE) (Apr 2023 - Mar 2024)
-  - Developed Python-based documentation with Sphinx, standardized docstrings to NumPy format, and authored Python test cases for automated testing.
-- **Research Assistant (Robotics)**, University of Bonn (Feb 2023 - Apr 2023)
-  - Worked on robot simulations and localization/mapping algorithms.
-- **Trainee Engineer**, Integrated Dynamics, Pakistan (Aug 2017 - Oct 2017)
-  - Gained experience in designing and developing drones and unmanned systems.
+- **Proficient in:** Python, ROS1, ROS2
+- **Familiar with:** C/C#, Cypher, SQL
+- **Python Libraries:** NumPy, OpenCV, Pandas, SciPy, Scikit-learn, Matplotlib, PyTest, Sphinx
+- **Version Control:** Git
+- **VR Interface:** Unity 3D
+- **Experience with:** Linux, Bash, VScode, Jupyterhub, PyCharm
+- **Circuit Design & Troubleshooting**
+- **Technical Documentation:** Sphinx, LaTeX
 
-## 🏆 Honors & Awards
-- Award of Merit Scholarship
-- College Honors Badge (Awarded across four semesters)
-- Positions in declamation and presentation contests
+## Projects
 
-## 🌐 Find Me Online
-- **GitHub**: [engrosamaali91](https://github.com/engrosamaali91)
-- **LinkedIn**: [Osama Ali Ashraf](https://www.linkedin.com/in/osama-ali-ashraf/)
+1. **Turtlebot3 Simulation in Gazebo**
+   - Implemented turtlebot3 simulation using ROS in Gazebo.
+   - Incorporated AMCL and gmapping for precise localization and mapping.
+   - Utilized the DWA approach for obstacle avoidance.
 
-## 📫 Contact Me
-- **Email**: [engr.osamaali91@gmail.com](mailto:engr.osamaali91@gmail.com)
-- **Location**: Bonn, Germany
+2. **Machine Learning on HSR Toyota Robot**
+   - Developed software related to data preprocessing and data augmentation.
+   - Trained and deployed a machine learning model on an HSR Toyota robot.
+
+3. **Brain Imaging Projects**
+   - Developed Python-based documentation with Sphinx.
+   - Standardized docstrings to NumPy format.
+   - Authored Python test cases for automated testing using PyTest.
+
+## Education
+
+- **M.Sc. Autonomous Systems** | Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany
+- **B.Engg. Electronics** | Karachi Institute of Economics and Technology, Pakistan
+
+## Work Experience
+
+- **Working Student (IT Support)** | University of Bonn
+- **Student Assistant (DevOps)** | German Center for Neurodegenerative Diseases (DZNE)
+- **Research Assistant (Robotics)** | University of Bonn (Humanoid Robotic Lab)
+
+Feel free to explore my repositories and connect with me on [LinkedIn](http://www.linkedin.com/in/osama-ali-ashraf/).
+
+[![GitHub](https://img.shields.io/badge/GitHub-engrosamaali91-black?style=flat-square&logo=github)](https://github.com/engrosamaali91)
