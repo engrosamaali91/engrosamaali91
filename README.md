@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Skilled in Programming Languages and sotware tools</h2>
+<h2 align="left">Skilled in Programming Languages and Sotware Tools</h2>
 
 ###
 
