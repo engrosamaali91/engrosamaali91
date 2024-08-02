@@ -50,9 +50,6 @@
 
 ###
 
-<h2 align="left">Connect with me on</h2>
-
-
 ## Projects
 
 1. **Turtlebot3 Simulation in Gazebo**
