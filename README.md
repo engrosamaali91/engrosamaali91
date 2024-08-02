@@ -1,6 +1,6 @@
 # GitHub Profile
 
-I am a passionate roboticist.
+I am a roboticist and currently pursuing my internship and doing my thesis at a robotics company, Mybotshop. I am also working towards completing my Master's degree in Autonomous Systems at Hochschule Bonn-Rhein-Sieg University of Applied Sciences, where I have focused on machine learning, neural networks, and human-robot interaction.
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, ranging from robotics simulations to machine learning models and technical documentation. I am proficient in Python, ROS1 and ROS2, and I enjoy working on innovative projects that push the boundaries of technology.
 
