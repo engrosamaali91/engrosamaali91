@@ -50,33 +50,6 @@
 
 ###
 
-## Projects
-
-1. **Turtlebot3 Simulation in Gazebo**
-   - Implemented turtlebot3 simulation using ROS in Gazebo.
-   - Incorporated AMCL and gmapping for precise localization and mapping.
-   - Utilized the DWA approach for obstacle avoidance.
-
-2. **Machine Learning on HSR Toyota Robot**
-   - Developed software related to data preprocessing and data augmentation.
-   - Trained and deployed a machine learning model on an HSR Toyota robot.
-
-3. **Brain Imaging Projects**
-   - Developed Python-based documentation with Sphinx.
-   - Standardized docstrings to NumPy format.
-   - Authored Python test cases for automated testing using PyTest.
-
-## Education
-
-- **M.Sc. Autonomous Systems** | Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany
-- **B.Engg. Electronics** | Karachi Institute of Economics and Technology, Pakistan
-
-## Work Experience
-
-- **Working Student (IT Support)** | University of Bonn
-- **Student Assistant (DevOps)** | German Center for Neurodegenerative Diseases (DZNE)
-- **Research Assistant (Robotics)** | University of Bonn (Humanoid Robotic Lab)
-
 Feel free to explore my repositories and connect with me on [LinkedIn](http://www.linkedin.com/in/osama-ali-ashraf/).
 
 ###
