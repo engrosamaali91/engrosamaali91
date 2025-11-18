@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">Skilled in Programming Languages and sotware tools</h2>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Isaac_Sim-00509E?logo=nvidia&logoColor=white&style=for-the-badge" height="40" alt="isaac sim logo" />
   <img width="12" />
