@@ -3,10 +3,6 @@
 ###
 
 <p align="left">I am a roboticist</p>
-###
-
-
-
 
 <h2 align="left">Skilled in Programming Languages and sotware tools</h2>
 
