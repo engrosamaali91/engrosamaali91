@@ -1,13 +1,7 @@
 <h1 align="left">Hey 👋 I'm Osama Ali Ashraf</h1>
 
-###
-
 <p align="left">I am a roboticist</p>
 
-<h2 align="left">Skilled in Programming Languages and sotware tools</h2>
-
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Isaac_Sim-00509E?logo=nvidia&logoColor=white&style=for-the-badge" height="40" alt="isaac sim logo" />
@@ -49,21 +43,16 @@
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="40" alt="adobepremierepro logo"  />
 </div>
 
-###
 
-###
 
 Feel free to explore my repositories and connect with me on [LinkedIn](http://www.linkedin.com/in/osama-ali-ashraf/).
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/osama-ali-ashraf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-engrosamaali91-black?style=flat-square&logo=github)](https://github.com/engrosamaali91)
